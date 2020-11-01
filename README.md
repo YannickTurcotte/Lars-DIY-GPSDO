@@ -3,6 +3,7 @@ Frequency counter 1000s/10000s gate time for Lars DIY GPSDO
 
 # reference link:
 https://www.eevblog.com/forum/projects/lars-diy-gpsdo-with-arduino-and-1ns-resolution-tic/
+
 http://www.paulvdiyblogs.net/2020/
 
 
